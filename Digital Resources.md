@@ -5,12 +5,13 @@
   * https://www.naeyc.org/resources/pubs/books
 * [Wild + Free](https://www.bewildandfree.org/) 
 * [Great Homeschool Conventions](https://greathomeschoolconventions.com/locations)
-* Blogs
+* Blogs/Curriculum
+  * https://www.stephaniehathawaydesigns.com/
   * https://thelittlesandme.com/
     * https://thelittlesandme.com/wp-content/uploads/2020/09/DailyRhythm-Editable.pdf
   * https://thesilvanreverie.com/
   * https://joyfoodsunshine.com/homeschool-daily-schedule/
-
+  
 * https://www.brainpop.com/ (potentially for K+)
 * Milestones
   * By UNR: https://extension.unr.edu/publication.aspx?PubID=4891

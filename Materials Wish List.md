@@ -14,3 +14,13 @@
 * molecajete
 * large glass or ceramic containers for flours, sugars, snacks, cereals, etc.
 * Bread containers (sandwich bread, loaves, and muffins/buns)
+
+# Homeschool Environment
+
+Morning Board
+
+Morning Basket
+
+"Tea" Time
+
+- [x] thrift a nice tea 

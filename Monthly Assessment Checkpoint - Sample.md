@@ -16,6 +16,40 @@ Each month, we'll have a 3rd party person review all that Kai and I did in the p
 6. Full documentation of Lessons
 7. Full documentation of Activities
 
+------
+
+
+
+## SAMPLE
+
+Projects
+
+* Lake River cleanup
+  * Summary: clean up Lake Tahoe with friends, and recap for 30min
+  * Outcome: successful. 2 hours clean up, spirited discussion
+  * Challenges: 
+    * kai was a little distracted at first.
+  * Links:
+    * Project overview: http://example.com
+    * Journal entry: http://examplejournal.com
+    * pictures: 
+
+Lessons: 
+
+* Bug Hunt: 
+  * Summary:
+  * lesson plan: http://example.com
+  * Outcome: 
+    * Results: 18/20 on quiz
+    * Assessment: http://s3.microschool.com/lessons/2023-07-10/bug-hunt
+  * Links:
+    * Journal entry: http://examplejournal.com/2023-07-10
+    * pictures: 
+
+
+
+
+
 ## Projects
 
 > Project Management, Recycling, Consumer Science, Earth Science, Civic Service
