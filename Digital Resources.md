@@ -17,5 +17,4 @@
   * By UNR: https://extension.unr.edu/publication.aspx?PubID=4891
 
 * [Consider Sleep Training with Colored Clock](https://a.co/d/0jZaSH4)
-
-* [Consider this Reading Curriculum](https://www.amazon.com/dp/B09J8M5XCW?binding=paperback&ref=dbs_dp_sirpi)
+  * [Consider this Reading Curriculum](https://www.amazon.com/dp/B09J8M5XCW?binding=paperback&ref=dbs_dp_sirpi)

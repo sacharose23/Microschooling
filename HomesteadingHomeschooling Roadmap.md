@@ -5,7 +5,7 @@ From 5/17/23 to 8/31/23
 ## Research & Design
 
 - [x] Create a rough weekly routine/rhythm.
-- [ ] Create new offer for Jennifer. 
+- [x] Create new offer for Jennifer. 
 - [ ] Design Pre-K Curriculum (use current digital resources)
   - [ ] Establish Fundamentals (minimum requirements) based on what state-run schools expect and what we want for kids.
   - [ ] Establish Methods & Styles by taking a little from a variety of currently established methods & styles.

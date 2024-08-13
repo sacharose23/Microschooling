@@ -7,7 +7,6 @@
 * scrapbook to save Kai's crafts
 * watercolor paper
 * scoops 
-* physical timer
 * Moveable calendar, season, weather, and day of the week printables/posters.
 * Laminated daily rhythm.
 * Laminated todo list.
@@ -19,8 +18,5 @@
 
 Morning Board
 
-Morning Basket
 
-"Tea" Time
 
-- [x] thrift a nice tea 
