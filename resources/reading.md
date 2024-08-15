@@ -1,4 +1,4 @@
-# Reading
+# Reading and Writing
 * flash cards
 * reading books aloud
 * find the letters
