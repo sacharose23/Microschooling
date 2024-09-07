@@ -1,57 +1,90 @@
-### **Fall and Winter Harvest Crops:**
+# Fall & Winter Harvest Crops
 
-#### **1. Onions (Short-Day Onions):**
+### Basic Crop Information
 
-- **Planting:** Start planting short-day onions directly in your raised bed in late summer (August to early September).
-- **Growth:** These onions will grow through the fall and into winter.
-- **Harvest:** Expect to harvest in late fall or early winter when the tops fall over and turn yellow.
+| **Crop**     | **Seeds to Sow Indoors** | **Number of Seedlings to Plant** | **Weeks Until Harvest** | **Plant Spacing**  | **Common Pests**            | **Pest Prevention**                               |
+| ------------ | ------------------------ | -------------------------------- | ----------------------- | ------------------ | --------------------------- | ------------------------------------------------- |
+| **Kale**     | 8-10 seeds               | 4 seedlings                      | 8-10 weeks              | 12-18 inches apart | Cabbage worms, aphids       | Floating row covers, neem oil, hand-picking pests |
+| **Spinach**  | 8-10 seeds               | 5 seedlings                      | 6-8 weeks               | 4-6 inches apart   | Slugs, leaf miners          | Slug traps, neem oil, regular inspection          |
+| **Bok Choy** | 5-7 seeds                | 3 seedlings                      | 6-8 weeks               | 6-12 inches apart  | Cabbage worms, flea beetles | Floating row covers, diatomaceous earth, neem oil |
+| **Arugula**  | 4-6 seeds                | 4 seedlings                      | 4-6 weeks               | 4-6 inches apart   | Flea beetles, aphids        | Floating row covers, insecticidal soap            |
+| **Lettuce**  | 10-12 seeds              | 7 seedlings                      | 6-8 weeks               | 6-8 inches apart   | Aphids, slugs               | Insecticidal soap, slug traps, regular inspection |
 
-#### **2. Lettuce:**
+#### Additional Details:
 
-- **Planting:** Sow lettuce seeds directly in the bed in late summer (August to September).
-- **Growth:** Lettuce can tolerate light frosts and will grow well into fall. The hinged house hoop can protect it during colder snaps.
-- **Harvest:** You can start harvesting baby greens in 4-6 weeks or wait for mature heads later in fall.
+**Kale**: Harvest outer leaves continuously, starting 8-10 weeks after transplanting.
 
-#### **3. Spinach:**
+**Spinach**: Harvest leaves as needed using the “cut and come again” method, typically 6-8 weeks after transplanting.
 
-- **Planting:** Sow spinach seeds directly in the bed in late summer to early fall (August to September).
-- **Growth:** Spinach thrives in cooler temperatures and can survive light frosts.
-- **Harvest:** Harvest spinach in 6-8 weeks, or allow it to grow longer under protection for a continuous harvest into winter.
+**Bok Choy**: Harvest outer leaves for continuous harvest or harvest the whole plant when mature, approximately 6-8 weeks after transplanting.
 
-#### **4. Broccoli:**
+**Arugula**: Harvest leaves as needed starting 4-6 weeks after transplanting.
 
-- **Planting:** Start broccoli seeds indoors in mid-summer (July to early August) and transplant them into the raised bed in late summer.
-- **Growth:** Broccoli can withstand cooler temperatures, and your hoop house will provide extra protection.
-- **Harvest:** Harvest broccoli heads in late fall or early winter. Side shoots may continue to produce after the main head is harvested.
+**Lettuce**: Harvest leaves or heads depending on the variety, usually 6-8 weeks after transplanting.
 
-#### **5. Carrots:**
+### Raised Bed Layout
 
-- **Planting:** Sow carrot seeds directly in the bed in late summer (August).
-- **Growth:** Carrots can be left in the ground during winter and harvested as needed.
-- **Harvest:** Carrots will be ready in about 60-80 days, but they can stay in the ground for winter harvesting as long as the ground doesn’t freeze solid.
+![raised-bed-layout-fall-winter-2024](/Users/kaptivating/Documents/Sacha/Microschooling/raised-bed-layout-fall-winter-2024.png)
 
-### **Tips to Ensure a Fall/Winter Harvest:**
+### Step-by-Step Plan: Seed to Harvest
 
-1. **Start Early Enough:** Begin planting in mid to late summer, giving your crops time to mature before the first hard frost, usually around late October or November in Zone 7.
-2. **Frost Protection:** Utilize your hinged house hoop to protect your crops from frost. It can also help create a microclimate that extends the growing season, especially for more tender crops like lettuce and spinach.
-3. **Cold-Tolerant Varieties:** Choose varieties that are known for their cold hardiness. For example, winter spinach, cold-resistant lettuce varieties, and frost-tolerant broccoli are good choices.
-4. **Mulching:** Apply a layer of mulch around your plants to help regulate soil temperature and retain moisture as the weather cools down.
-5. **Succession Planting:** Consider planting in intervals (every 2-3 weeks) to ensure a continuous harvest throughout the fall and winter.
+#### **4th Week of August**
 
-### Seed Sowing Recommendations:
+1. **Start Seeds Indoors:**
+   - Use seed starter trays with a high-quality seed-starting mix.
+   - **Broccoli**: Sow 2-3 seeds per cell.
+   - **Spinach**: Sow 2-3 seeds per cell.
+   - **Bok Choy**: Sow 2-3 seeds per cell.
+   - **Stringless Beans**: You can start these indoors or directly sow them in the garden. If starting indoors, sow 2 seeds per cell.
+   - **Lettuce**: Sow 2-3 seeds per cell.
+   - Keep the trays in a warm location with indirect light. Ensure consistent moisture.
+2. **Seedling Care:**
+   - Thin seedlings to one strong plant per cell once they have a couple of true leaves.
+   - Provide adequate light (using grow lights if necessary) and maintain soil moisture.
+   - Begin hardening off the seedlings in about 2 weeks by gradually exposing them to outdoor conditions.
 
-- **Carrots**: Sow directly outdoors because they don’t transplant well.
-- **Onions**: Sow 20-30% more seeds than the number of plants you need to ensure you have enough strong transplants.
-- **Spinach**: Over-sow slightly to account for weaker seedlings.
-- **Lettuce**: Similarly, sow more seeds to ensure you have enough strong plants.
+#### **2nd-3rd Week of September**
 
-![output](/Users/kaptivating/Documents/Sacha/Microschooling/output.png)
+1. **Prepare Raised Bed:**
+   - **Clear the Bed**: Remove any existing plants, weeds, and debris.
+   - **Soil Preparation**: Incorporate organic compost, aged manure, or worm castings to enrich the soil. Test the soil pH and amend if necessary (ideal pH for these crops: 6.0-7.0).
+   - **Plan for Spacing**: Ensure proper spacing between plants to optimize growth.
+2. **Transplant Seedlings Outdoors:**
+   - **Broccoli**: Transplant seedlings at 18 inches apart.
+   - **Spinach**: Transplant seedlings at 4-6 inches apart.
+   - **Bok Choy**: Transplant seedlings at 6-12 inches apart.
+   - **Stringless Beans**: If you didn’t start these indoors, you can directly sow them now. Space them 4-6 inches apart.
+   - **Lettuce**: Transplant seedlings at 6-8 inches apart.
+3. **Install Hinged Hoop House:**
+   - Construct and place the hoop house over the bed to protect the seedlings from extreme temperatures and pests.
 
-| **Crop**             | Sow Seeds  Location                     | Sow Depth           | Plant at Soil Temp | **Seeds to Sow Indoors** | When to Sow Seeds | Sprout Timing | When to Plant Outside | **Location in Raised Bed** | **Spacing**        | **Estimated Quantity** | **Potential Yield**        | **Harvest Period**                    | **Harvest Frequency**                             | **Pests to Watch**         | **Watering Needs** | **Additional Tips**                                          |
-| -------------------- | --------------------------------------- | ------------------- | ------------------ | ------------------------ | ----------------- | ------------- | --------------------- | -------------------------- | ------------------ | ---------------------- | -------------------------- | ------------------------------------- | ------------------------------------------------- | -------------------------- | ------------------ | ------------------------------------------------------------ |
-| **Carrots**          | Outdoors (use boards until germination) | 3x diameter of seed | 46-86 F            | N/A                      | N/A               | 3 weeks       | Late September        | Middle (rows)              | 2-12 inches apart  | 23 carrots             | 23 carrots per season      | 12-18 weeks; Late November - February | Once per plant                                    | Carrot rust flies, aphids  | Moderate           | Thin seedlings, mulch after planting                         |
-| **Radishes**         | outdoors                                |                     |                    |                          |                   |               | Late September        | Interplanted with Carrots  | 2-3 inches apart   | 23-30 radishes         | 23-30 radishes per season  | 3-4 weeks after planting              | Once per plant                                    | Flea beetles, root maggots | Moderate           | Harvest promptly to avoid tough, woody roots                 |
-| **Short Day Onions** | Indoors                                 | 3x diameter of seed | 46°F and 86°F      | 18-20 seeds              | Late August       |               | Late October          | Edges (rows)               | 4-6 inches apart   | 14 onions              | 14 onions per season       | February - April                      | Once per plant                                    | Onion maggots, thrips      | Moderate           | Fertilize with nitrogen mid-growth                           |
-| **Spinach**          | Indoors                                 | 3x diameter of seed | 50°F and 77°F      | 12-15 seeds              | Early September   |               | Late September        | Anywhere (fill gaps)       | 4-6 inches apart   | 10 plants              | Continuous leaves harvest  | 5-11 weeks; Late November - January   | Multiple harvests per plant (cut and come again)  | Slugs, leaf miners         | Moderate           | Sow every 2-3 weeks for continuous harvest; doesn't grow well in acid soil |
-| **Lettuce**          | Indoors                                 | 3x diameter of seed | 46°F and 81°F      | 12-15 seeds              | Early September   |               | Late September        | Edges (rows)               | 6-8 inches apart   | 10 heads               | Continuous leaves or heads | 8-12 weeks; Late November - January   | Multiple harvests per plant (leaf varieties)      | Aphids, slugs              | High               | Thin seedlings & eat them; Shade in hot weather, succession planting |
-| **Broccoli**         | Indoors                                 | 3x diameter of seed | 45°F and 86°F      | 10 seeds                 | Late August       |               | Late September        | Center (space for growth)  | 15-18 inches apart | 7 plants               | 7 heads + side shoots      | 10-16 weeks; December - February      | Harvest once for main head + multiple side shoots | Cabbage worms, aphids      | Moderate           | Use floating row covers for pest protection                  |
+#### **Late September - October**
+
+1. **Care and Maintenance:**
+   - **Watering**: Maintain consistent moisture, particularly as temperatures fluctuate.
+   - **Fertilizing**: Apply a balanced fertilizer (e.g., 10-10-10) at transplanting and again mid-season for broccoli and bok choy.
+   - **Weeding**: Keep the bed weed-free to reduce competition for nutrients.
+2. **Pest Management:**
+   - **Common Pests**: Aphids, cabbage worms, flea beetles, slugs, and leaf miners.
+   - Prevention and Control:
+     - Use floating row covers to protect against pests.
+     - Apply neem oil or insecticidal soap if aphids are present.
+     - Handpick or use slug traps to manage slugs.
+     - Regularly inspect plants for signs of pests and address promptly.
+
+#### **November - January**
+
+1. Harvest:
+   - **Spinach**: Harvest leaves as needed using the “cut and come again” method, typically 6-8 weeks after transplanting.
+   - **Lettuce**: Harvest leaves or heads depending on the variety, usually 6-8 weeks after transplanting.
+   - **Bok Choy**: Harvest outer leaves for continuous harvest or the whole plant when mature, approximately 6-8 weeks after transplanting.
+   - **Broccoli**: Harvest the main head when it’s fully developed but before the buds open, usually 10-12 weeks after transplanting. Smaller side shoots will develop after the main head is harvested.
+   - **Stringless Beans**: Harvest beans when they are young and tender, typically 7-8 weeks after planting.
+
+#### **Post-Harvest (Late January - February)**
+
+1. Prepare for Next Season:
+   - **Remove Spent Plants**: Clear the bed of any plant debris and add it to your compost.
+   - **Soil Care**: Add a layer of compost or organic matter to rejuvenate the soil.
+   - **Cover Crop (Optional)**: Plant a cover crop like clover or rye to improve soil health and prevent erosion.
+   - **Plan for Spring Planting**: Consider rotating crops to prevent disease buildup and improve soil fertility.
